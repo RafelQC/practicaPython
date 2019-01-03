@@ -8,6 +8,7 @@ def correoArrobaOk(correo):
 miCorreo=input("Introduzca su dirección de correo electrónico: ")
 
 print(correoArrobaOk(miCorreo))
+print("Prova de git")
 
 #print(miCorreo.find("@")) #indica en que posición esta el primer caracter seleccionado
 #print(len(miCorreo))      #indica la longitud de la cadena
