@@ -1,0 +1,3 @@
+Estupendo día para estudiar Python
+Esta linea ha sido añadida mediante el uso de listas
+cream una línea més yeah
